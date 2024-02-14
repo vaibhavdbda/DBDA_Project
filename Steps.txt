@@ -1,0 +1,2 @@
+1. data collection.
+2. data preprocessing.
